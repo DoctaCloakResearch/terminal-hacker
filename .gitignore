@@ -1,1 +1,6 @@
 Temp
+Library
+.vscode
+ProjectSettings
+obj/Debug
+Packages
